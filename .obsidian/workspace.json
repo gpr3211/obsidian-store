@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "8ee9898e4ffbd08c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0bac39e7a7e56fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda3e19b5aac461b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NETWORK+/Chapter1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter1"
+            }
+          },
+          {
+            "id": "cffe68a35221c83c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hack The Box/Web Pen  Path/Linux Priv Escalation/ENV enumeration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ENV enumeration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c25b44f82ac538e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "877f6f30b8abed57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47f60f26d9644863",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fbfcac2860a57671",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "malicious tar file",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39d9ba291e84ff1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5026054382324,
+    "collapsed": true
+  },
+  "right": {
+    "id": "662f9a808003dab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd31d018b3855f40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8f2e1c6f3962015",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ec22af35df735aad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5ae1aa10af8ad690",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c79a66544de3eb7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eda3e19b5aac461b",
+  "lastOpenFiles": [
+    "Pasted image 20260416143731.png",
+    "Pasted image 20260416143710.png",
+    "Hack The Box/Web Pen  Path/Information Gathering - Web/DNS.md",
+    "NETWORK+/Chapter1.md",
+    "NETWORK+",
+    "Hack The Box/tools.md",
+    "Hack The Box/Web Pen  Path/Information Gathering - Web",
+    "Hack The Box/bash.md",
+    "Hack The Box/machines/WingData.md",
+    "Hack The Box/machines/Untitled.md",
+    "Hack The Box/machines/Facts.md",
+    "Hack The Box/machines/Conversor.md",
+    "Hack The Box/Brute/hashcat/Hybrid mode.md",
+    "Hack The Box/Web Pen  Path/Linux Priv Escalation/ENV enumeration.md",
+    "Hack The Box/Web Pen  Path/Linux Priv Escalation",
+    "Pasted image 20260224201314.png",
+    "Pasted image 20260224201310.png",
+    "Pasted image 20260224201309.png",
+    "Hack The Box/Brute/hashcat/Hashcat.md",
+    "Hack The Box/Brute/hashcat/Using mask.md",
+    "Hack The Box/Brute/Hydra.md",
+    "Hack The Box/Brute/Medusa.md",
+    "Hack The Box/Brute/hashcat/Cracking Common Hashes.md",
+    "Hack The Box/Brute/hashcat/Cracking Miscellaneous Files & Hashes.md",
+    "Hack The Box/Brute/Custom Wordlists.md",
+    "Consul.md",
+    "Docker Publishing image.md",
+    "Pasted image 20260118212417.png",
+    "Hack The Box/Linux_Basics/Prompt Description.md",
+    "Hack The Box/Web Pen  Path/Web Fuzzing/Recursive fuzzing.md",
+    "Hack The Box/Web Pen  Path/Web Fuzzing/Parameter and Values.md",
+    "Hack The Box/Web Pen  Path/Web Fuzzing/Filtering Options.md",
+    "Hack The Box/Web Pen  Path/Web Appications/Untitled.md",
+    "Hack The Box/Web Pen  Path/Web Appications/Burp/fuzz.md",
+    "Hack The Box/Web Pen  Path/Web Fuzzing/Java Deobsfurication/Advanced Obfucation",
+    "Hack The Box/Web Pen  Path/Web Fuzzing/Java Deobfuscation",
+    "Hack The Box/Web Pen  Path/File Inclusion",
+    "Hack The Box/Web Pen  Path/Web Fuzzing",
+    "Pasted image 20260118212932.png",
+    "Pasted image 20260118212927.png",
+    "Hack The Box/Linux_Basics",
+    "Hack The Box/Web Pen  Path/File Upload",
+    "Hack The Box/GOVULNS"
+  ]
+}
