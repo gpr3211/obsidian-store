@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NETWORK+/Chapter1.md",
+                "file": "NETWORK+/Chapter2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter1"
+              "title": "Chapter2"
             }
           },
           {
@@ -173,18 +173,20 @@
   },
   "active": "eda3e19b5aac461b",
   "lastOpenFiles": [
-    "Hack The Box/Web Pen  Path/Linux Priv Escalation/ENV enumeration.md",
+    "Pasted image 20260419195726.png",
+    "Pasted image 20260419194758.png",
+    "NETWORK+/Chapter2.md",
+    "Pasted image 20260419190439.png",
+    "Pasted image 20260418222658.png",
+    "Pasted image 20260418222647.png",
+    "Pasted image 20260418222559.png",
     "NETWORK+/Chapter1.md",
+    "Hack The Box/Web Pen  Path/Linux Priv Escalation/ENV enumeration.md",
     "Pasted image 20260416192237.png",
     "Pasted image 20260416191920.png",
     "Pasted image 20260416191748.png",
     "Pasted image 20260416190118.png",
     "Pasted image 20260416184627.png",
-    "Pasted image 20260416182353.png",
-    "Pasted image 20260416154419.png",
-    "Pasted image 20260416153941.png",
-    "Pasted image 20260416153643.png",
-    "Pasted image 20260416143731.png",
     "Hack The Box/Web Pen  Path/Information Gathering - Web/DNS.md",
     "NETWORK+",
     "Hack The Box/tools.md",
@@ -210,7 +212,6 @@
     "Hack The Box/Web Pen  Path/Web Fuzzing/Parameter and Values.md",
     "Hack The Box/Web Pen  Path/Web Fuzzing/Filtering Options.md",
     "Hack The Box/Web Pen  Path/Web Appications/Untitled.md",
-    "Hack The Box/Web Pen  Path/Web Appications/Burp/fuzz.md",
     "Hack The Box/Web Pen  Path/Web Fuzzing/Java Deobsfurication/Advanced Obfucation",
     "Hack The Box/Web Pen  Path/Web Fuzzing/Java Deobfuscation",
     "Hack The Box/Web Pen  Path/File Inclusion",
